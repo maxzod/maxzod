@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my server side packages for dart and other freelance projects ...
 - 🌱 I’m currently learning backend
 - 💬 Ask me about [Java,Dart,Flutter]
-- 📫 How to reach me: ... [Facebook](https://facebook.com/maxzod66) , [Twitter](https://twitter.com/Maxzod66) , [Email](maxzod66@gmail.com)
+- 📫 How to reach me: ... [Facebook](https://facebook.com/maxzod66) , [Twitter](https://twitter.com/Maxzod66) , **Email** maxzod66@gmail.com
 
 ## [**`My blog (arabic content)`**](https://maxzodblog.blogspot.com/)
 
