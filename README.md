@@ -9,8 +9,8 @@
 
 ## **`My Packages`**
 
-- [**`🏰 Palace`**](https://github.com/maxzod/palce)
-- [**`👑 Queen validators`**](https://github.com/maxzod/queen_validators)
-- [**`🏰 Palace validators`**](https://github.com/maxzod/palace_validators) uses `dart:mirrors` ☯
-- [**`🔔 Queen Alerts`**](https://github.com/maxzod/queen_alerts)
-- [**`⚡ Lighthouse`**](https://github.com/maxzod/lighthouse) CLI to provide hot reload for dart projects like `nodemon`
+- 🏰 [**`Palace`**](https://github.com/maxzod/palce)
+- 🏰 [**`Palace validators`**](https://github.com/maxzod/palace_validators) uses `dart:mirrors` ☯
+- 👑 [**`Queen validators`**](https://github.com/maxzod/queen_validators)
+- 🔔 [**`Queen Alerts`**](https://github.com/maxzod/queen_alerts)
+- ⚡ [**`Lighthouse`**](https://github.com/maxzod/lighthouse) CLI to provide hot reload for dart projects like `nodemon`
