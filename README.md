@@ -9,7 +9,7 @@
 
 ## **`My Packages`**
 
-- 🏰 [**`Palace`**](https://github.com/maxzod/palce)
+- 🏰 [**`Palace`**](https://github.com/maxzod/palace)
 - 🏰 [**`Palace validators`**](https://github.com/maxzod/palace_validators) uses `dart:mirrors` ☯
 - 👑 [**`Queen validators`**](https://github.com/maxzod/queen_validators)
 - 🔔 [**`Queen Alerts`**](https://github.com/maxzod/queen_alerts)
