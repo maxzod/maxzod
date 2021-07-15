@@ -16,3 +16,4 @@
 - ⚡ [**`Lighthouse`**](https://github.com/maxzod/lighthouse) CLI to provide hot reload for dart projects like `nodemon`
 - 🦜 [**`queen UI`**](https://github.com/maxzod/queen_ui) collection on prebuilt ui widgets for flutter
 - ⚠  [**`EdgeAlerts`**](https://github.com/maxzod/EdgeAlerts) inspired by Alerter package for java
+- 📃 [**`LaravelException`**](https://github.com/maxzod/laravel_exception) parse laravel exception message to dart class with geters to make it simpler
