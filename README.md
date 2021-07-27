@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working full-time flutter developer 
+- 🔭 I’m currently working full-time flutter developer and building dart backend framework
 - 🌱 I’m currently learning testing
 - 💬 Ask me about [Dart,Flutter]
 - 📫 How to reach me: ... [Facebook](https://facebook.com/maxzod66) , [Twitter](https://twitter.com/Maxzod66) , **Email** maxzod66@gmail.com
+![maxzod GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxzod&show_icons=true)
 
 ## [**`My blog (arabic content)`**](https://maxzodblog.blogspot.com/)
 ## i can work with ``.dart`` ``.php`` ``.java`` ``.js`` ``.ts`` and ``.md`` 😆
