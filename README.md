@@ -1,18 +1,18 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working full-time flutter developer and building dart backend framework
-- 🌱 I’m currently learning testing
+- 🔭 I’m currently Looking for a Full-time job remotly
+- 🌱 I’m currently learning testing , and Responsive design
 - 💬 Ask me about [Dart,Flutter]
 - 📫 How to reach me: ... [Facebook](https://facebook.com/maxzod66) , [Twitter](https://twitter.com/Maxzod66) , **Email** maxzod66@gmail.com
 ![maxzod GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxzod&show_icons=true)
 
 ## [**`My blog (arabic content)`**](https://maxzodblog.blogspot.com/)
-## i can work with ``.dart`` ``.php`` ``.java`` ``.js`` ``.ts`` and ``.md`` 😆
-## **`My Packages`**
 
+## **`My Packages`**
+- 👑 [**`Queen validators`**](https://github.com/FlutterQueen/validators)
+- 👑 [**`readable`**](https://github.com/FlutterQueen/readable)
 - 🏰 [**`Palace`**](https://github.com/maxzod/palace)
 - 🏰 [**`Palace validators`**](https://github.com/maxzod/palace_validators) uses `dart:mirrors` ☯
-- 👑 [**`Queen validators`**](https://github.com/maxzod/queen_validators)
 - 🔔 [**`Queen Alerts`**](https://github.com/maxzod/queen_alerts)
 - ⚡ [**`Lighthouse`**](https://github.com/maxzod/lighthouse) CLI to provide hot reload for dart projects like `nodemon`
 - 🦜 [**`queen UI`**](https://github.com/maxzod/queen_ui) collection on prebuilt ui widgets for flutter
