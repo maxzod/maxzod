@@ -16,23 +16,16 @@
 
 ## **`My Packages`**
 
-- 👑 [**`QUEEN Project`**](https://flutterqueen.github.io/website/)
-
-  - localization
-  - validation (localized out of the box)
-  - theming
-  - collection of helpers
-
-- 👑 [**`Queen validators`**](https://github.com/FlutterQueen/validators)
-- 👑 [**`readable`**](https://github.com/FlutterQueen/readable)
-- [**`Lighthouse`**](https://github.com/maxzod/lighthouse) CLI for queen
-- [**`LaravelException`**](https://github.com/maxzod/laravel_exception) parse laravel exception message to dart class with getters to be simpler
-- [**`Queen Env`**](https://github.com/maxzod/queen_env) .env file reader
-- [**`EdgeAlerts`**](https://github.com/maxzod/EdgeAlerts) inspired by Alerter package for java
-
-## **`abandoned projects`** 😢
-
-- 🏰 [**`Palace`**](https://github.com/maxzod/palace)
-- [**`Palace validators`**](https://github.com/maxzod/palace_validators) uses `dart:mirrors` ☯
-- [**`queen UI`**](https://github.com/maxzod/queen_ui) collection on prebuilt ui widgets for flutter
-- 🔔 [**`Queen Alerts`**](https://github.com/maxzod/queen_alerts)
+| name                                                                   | about                                                                    |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [**`QUEEN`**](https://flutterqueen.github.io/website/)                 | localization,validation,theming ...etc                                   |
+| [**`Queen validators`**](https://github.com/FlutterQueen/validators)   |                                                                          |
+| [**`readable`**](https://github.com/FlutterQueen/readable)             |                                                                          |
+| [**`Lighthouse`**](https://github.com/maxzod/lighthouse)               | CLI for queen                                                            |
+| [**`LaravelException`**](https://github.com/maxzod/laravel_exception)  | parse laravel exception message to dart class with getters to be simpler |
+| [**`Queen Env`**](https://github.com/maxzod/queen_env)                 | .env file reader                                                         |
+| [**`EdgeAlerts`**](https://github.com/maxzod/EdgeAlerts)               | inspired by Alerter package for java                                     |
+| [**`Palace`**](https://github.com/maxzod/palace)                       |                                                                          |
+| [**`Palace validators`**](https://github.com/maxzod/palace_validators) | uses `dart:mirrors` ☯                                                    |
+| [**`queen UI`**](https://github.com/maxzod/queen_ui)                   | collection on prebuilt ui widgets for flutter                            |
+| [**`Queen Alerts`**](https://github.com/maxzod/queen_alerts)           |                                                                          |
