@@ -1,8 +1,8 @@
 # Hi there 👋
 
-- 🔭 I’m currently wroking as flutter team leader at [MB](https://github.com/MB-Dv)
-- 🌱 I’m currently learning testing and building packages
-- 💬 Ask me about [Dart,Flutter,Laravel]
+- 🔭 I’m currently looking for a job as flutter Developer
+- 🌱 I’m currently learning automation testing with flutter
+- 💬 Ask me about [Dart, Flutter, Laravel]
 - 📫 How to reach me: ...
 
 [![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/maxzod)
