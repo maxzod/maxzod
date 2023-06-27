@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently looking for a job as flutter Developer
+- 🔭 I’m currently looking for a job as flutter Developer (Remotely)
 - 🌱 I’m currently learning automation testing with flutter
 - 💬 Ask me about [Dart, Flutter, Laravel]
 - 📫 How to reach me: ...
